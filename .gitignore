@@ -1,0 +1,13 @@
+# CIFAR-10 is downloaded by the notebook
+data/
+
+# Experiment outputs and checkpoints
+results/
+*.pt
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# Local environment (normally lives outside the repo)
+.venv/
